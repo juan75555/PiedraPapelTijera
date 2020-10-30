@@ -38,6 +38,8 @@ elif user_choice=='R' and pc_choice=='P':
 elif user_choice=='R' and pc_choice=='S':
     print("La maquina escogio S")
     print(username + "has ganado :)")
+    
+close=input("Press ENTER to close the game.")
 
 
 
